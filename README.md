@@ -248,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Anay Sinhal** - [anayy09](https://github.com/anayy09)
-**Radhey Sharma** - [radheysharma13](https://github.com/radheysharma13)
+**Radhey Sharma** - [radheysharma](https://github.com/radheysharma)
 
 ---
 
